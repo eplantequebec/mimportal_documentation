@@ -1,0 +1,105 @@
+﻿body {
+    font-family: sans-serif;
+}
+
+table {
+    border: medium solid #000000;
+    border-collapse: collapse;
+}
+
+tr.group {
+    background-color: #badbf8;
+}
+
+tr.oddTrue.group {
+    background-color: #d9ebfb;
+}
+
+tr.oddTrue.set {
+    background-color: #bdf3de;
+}
+
+tr.set {
+    background-color: #e1f9f0;
+}
+
+td,th {
+    border: medium solid black;
+    padding: 15px;
+    text-align: left;
+
+}
+
+.title {
+    text-align-last: center;
+	font-size: 30px;
+	padding-bottom: 30px;
+}
+
+.setDN, .setDesc {
+    display: inline-block;
+}
+
+.hide_True {
+    display: none;
+}
+
+.setFilter {
+    font-style: italic;
+    margin-top: 10px;
+}
+
+.groupDN, .setDN {
+    font-weight: bold;
+}
+ 
+.setExplicite {
+	margin-top: 10px;
+}
+
+.groupDescription {
+    font-size: 90%;
+}
+
+.groupExplicite {
+	margin-top: 10px;
+}
+
+.groupFilter {
+    font-style: italic;
+    margin-top: 10px;
+}
+
+.vertical {
+    text-orientation: mixed;
+}
+
+.vertical {transform: rotate(270deg);text-align: center;}
+
+.MailEnabledSecurity, .Security, .Distribution {
+    background-color: #1579d1;
+}
+
+.setType {
+    background-color: #1d9f6e;
+}
+
+.MailEnabledSecurity, .Security, .Distribution, .setType {
+    color: white;
+    font-weight: bold;
+	height: 100px;
+	width: 50px;
+}
+
+span.titleGroups {
+    color: #1579d1;
+}
+
+span.titleSets {
+    color: #1d9f6e;
+}
+
+.error_True {
+    color: red;
+    font-weight: bold;
+}

@@ -1,0 +1,91 @@
+﻿body {
+    font-family: sans-serif;
+}
+
+table {
+    border: medium solid #000000;
+    border-collapse: collapse;
+}
+
+td,th {
+    border: medium solid black;
+    padding: 10px;
+    text-align: left;
+
+}
+
+td.grantsRight.requestor.left {
+    width: 290px;
+}
+
+.title {
+    text-align-last: center;
+	font-size: 30px;
+	padding-bottom: 30px;
+}
+
+.title_type {
+	font-size: 20px;
+	padding-bottom: 5px;
+
+}
+
+.legend {
+    padding: 20px;
+    margin-left: 20px;
+    width: 300px;
+    margin-bottom: 5px;
+}
+
+.Request {
+    background-color: #fbaaab;
+}
+
+.SetTransition {
+    background-color: #f0a07c;
+}
+
+.TransitionIn, .SetTransitionIN {
+    background-color: #ffeda7;
+}
+
+.TransitionOut, .SetTransitionOUT  {
+    background-color: #f9c3c2;
+}
+
+.separator {
+    background-color: gray;
+	height:
+}
+
+.grantsRight {
+    background-color: #bff3ff;
+}
+
+.disabled_True.mprDN {
+    color: red;
+}
+
+.mprDescription {
+    font-style: italic;
+}
+
+.mprDN {
+    font-size: large;
+}
+
+.filter, .set_xpath {
+	font-style: italic;
+}
+
+.set_title, .operations_attr, .operations, .txt_grantsRight, .resource_attribute, .wf_title, .mprDN {
+	font-weight: bold;
+}
+
+.section {
+    font-size: 25px;
+    background: none;
+    margin-top: 50px;
+    text-align: center;
+    margin-bottom: 10px;
+}
