@@ -4,7 +4,7 @@ MIMPORTAL Auto Documentation
 ## Getting Started
 These 2 powershell scripts build HTML pages that describe the SETs and MPRs in the Portal.  I made those PS during a MIM contract for a client.  I wanted something to document the MPR and SET, but I used also that a pedagogic tool.  
 
-They probably have several bugs. Do not hesitate to correct and share the code.  
+They probably have several bugs. And also, English is not my native language.  Don't hesitate to correct and share the code!  
 
 ### Prerequisites
 - Windows
