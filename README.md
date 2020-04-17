@@ -13,6 +13,10 @@ They probably have several bugs. And also, English is not my native language.  D
 ### Installing
 
 Just put all files in a folder and execute in ISE or in commandline the powershell script you want (For SETs or for MPRs).
+
+<b>Describe MPR.ps1</b> describe all MPR with triggers and actiosn.
+<b>Describe SETs.ps1</b> describe all SET and CBG groups.
+
 <img src="https://raw.githubusercontent.com/eplantequebec/readme-images/master/MIMDOC1.PNG" >
 <img src="https://raw.githubusercontent.com/eplantequebec/readme-images/master/MIMDOC2.PNG" >
 
