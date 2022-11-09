@@ -1,6 +1,8 @@
-﻿Add-PSSnapin FIMAutomation
+#Voir https://github.com/eplantequebec/mimportal_documentation
 
-$filename = "C:\Users\svreplante\MPR_Description.html"
+Add-PSSnapin FIMAutomation
+
+$filename = "MPR_Description.html"
 
 # $AllMPR = $null
 
