@@ -336,7 +336,7 @@ foreach ($item in $items) {
             "grantsRight" { $sectionTXT = "Grant permissions MPRs" } 
             "TransitionIn" { $sectionTXT = "Set Transition IN MPRs" } 
             "TransitionOut" { $sectionTXT = "Set Transition OUT MPRs " } 
-            "grantsRight" { $sectionTXT = "Request MPRs" } 
+            "Request" { $sectionTXT = "Request MPRs" } 
         }
 
         WriteToFile ((HTMLCode "sectionTitle") -f @($section, $sectionTXT))
